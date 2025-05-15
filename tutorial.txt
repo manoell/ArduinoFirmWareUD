@@ -1,0 +1,19 @@
+Hey UC family,
+
+Here’s the firmware I promised! The process is simple—just follow these steps:
+
+1. **Open CMD as Administrator**
+2. Navigate to the folder where the firmware is located:
+- Copy the file location (e.g., `C:\Users\Downloads\itsmemadd`).
+- In CMD, type: `cd C:\Users\Downloads\itsmemadd` and press Enter.
+3. Type `avrdude.exe` and press Enter.
+4. Open `command.txt` and replace `COM9` with your hidden COM port (only change the number).
+- Copy the full command from the file.
+5. Go back to CMD, paste the command, and press Enter.
+P.S if your arduino already spoofed, when you want to past the cmd make sure you press reset botton in the arduino to show the hiden com port 
+- Voilà! Your Arduino is now flashed with what I’d call a decent firmware.
+
+Note: The more this firmware gets resold by others, the higher the chances of it being detected—so let’s keep it simple and fair.
+
+Enjoy the release, and have a great day!
+Please do not ask for additional help with this. Thank you!
